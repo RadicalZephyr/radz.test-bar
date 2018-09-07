@@ -1,4 +1,4 @@
-(defproject radz.test/bar "1.0"
+(defproject radz.test/bar "1.2"
   :description ""
   :url "https://github.com/radicalzephyr/radz.test-bar"
   :scm {:url "https://github.com/radicalzephyr/radz.test-bar"}
